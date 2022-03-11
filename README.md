@@ -1,6 +1,8 @@
 # facebook-login-clone
 
-Its a clone of facebook log in page ( **Its not perfect but i tried by putting together my skills** )
+Its a **clone of facebook log in page** ( *Its not perfect but i tried by putting together my skills* )
+
+[ At the moment its not reposive ]
 
 
 
