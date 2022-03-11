@@ -35,8 +35,7 @@ header p{
 
 }
 
-/*account */
-
+/*account sections*/
 #accounts{
     word-spacing: 10px;
 }
@@ -102,7 +101,7 @@ header p{
 }
 
 
-
+/* log in box of the page*/
 #log-in {
     box-shadow: 2px 5px 20px rgba( 201, 203, 205, 100%), -2px -5px 20px rgba( 201, 203, 205, 100%);
     padding: 10px;
@@ -170,6 +169,7 @@ header p{
     transform: translate(10px,50px);
 }
 
+/* footer of the page */
 footer{
     font-size: 13px;
     word-spacing: 20px;
