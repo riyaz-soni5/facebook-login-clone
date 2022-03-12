@@ -174,11 +174,12 @@ header p{
 
 /* footer of the page */
 footer{
+    position: relative;
     font-size: 13px;
     word-spacing: 20px;
     background-color: rgba( 255, 255, 255, 100%) ;
     color: gray;
-    left: 80px;
+    left: 100px;
     list-style: none;
 }
 
